@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DTP</string>
+    <string name="content">本程序在使用过程中需要连接网络,上传地理位置信息以便获取对应地理位置的推送信息。
+        获取手机状态信息，以便标识用户的唯一性。点击\"我同意\"以继续使用。</string>
+</resources>
